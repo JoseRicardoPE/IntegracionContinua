@@ -1,0 +1,2 @@
+# IntegracionContinua
+Proyecto Integración Continua Politécnico Grancolombiano
